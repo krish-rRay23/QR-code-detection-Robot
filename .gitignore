@@ -1,0 +1,20 @@
+# ROS 2 build folders
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (optional)
+.vscode/
+
+# ROS 2 workspace metadata (optional)
+.colcon/
+
+# Backup files
+*.swp
+*.bak
+*~
+
